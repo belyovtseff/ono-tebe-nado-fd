@@ -36,3 +36,8 @@ img {
 button {
   font: inherit;
 }
+
+address {
+  font-style: normal;
+}
+
